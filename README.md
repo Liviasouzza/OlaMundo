@@ -1,4 +1,5 @@
 # Olá, Mundo
  primeiro repositorio versionado do curso Git
 
-Repositório criando durante aula do Curso em Video.
+Repositório criado durante aula do Curso em Video.
+
